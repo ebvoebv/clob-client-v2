@@ -63,4 +63,4 @@
     "deploy": "pnpm build && npm publish",
     "test": "vitest run"
   }
-}
+} 
