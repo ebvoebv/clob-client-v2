@@ -1,3 +1,4 @@
+// version 1.0.5
 // src/constants.ts
 var INITIAL_CURSOR = "MA==";
 var END_CURSOR = "LTE=";
