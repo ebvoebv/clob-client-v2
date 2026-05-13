@@ -35,7 +35,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/polymarket-dev/clob-client-v2"
+    "url": "https://github.com/dev-polymarket/clob-client-v2"
   },
   "dependencies": {
     "@ethersproject/providers": "^5.8.0",
