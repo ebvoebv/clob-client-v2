@@ -8,7 +8,7 @@ TypeScript client for the Polymarket CLOB (v2)
 npm i @polymarkets/clob-client-v2           # npm / pnpm / yarn
 ```
 
-### Usage
+### Use
 
 ```ts
 // npm install @polymarkets/clob-client-v2
